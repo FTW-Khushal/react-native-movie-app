@@ -1,0 +1,6 @@
+export const ACCESS_TOKEN_AUTH = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YmIyNjU5NTA5YjVjYzY4M2FhNTZiZTU0NDdmZjZlZSIsIm5iZiI6MTcyODAwNzEwNC4xNTE2MSwic3ViIjoiNjRjMDM1YjUxN2M0NDMwMTNkYTNhOTVkIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.LHctM1lUxSn_kfEE93wG1lhmJlUtu-hQsMAUcqWj9xQ"
+export const API_KEY="7bb2659509b5cc683aa56be5447ff6ee"
+export const BASE_URL = "https://api.themoviedb.org/3"
+export const TYPE_MOVIE = "movie"
+export const TYPE_SEARCH = "search"
+export const TYPE_TV = "tv"
